@@ -1,7 +1,7 @@
 # TrailReady privacy policy
 
-Effective date: [set before publishing]
-Developer: Muhammad Amjad · Contact: [your support email]
+Effective date: 10/22/2026
+Developer: Muhammad Amjad · Contact: amjad.venv@gmail.com
 
 TrailReady stores everything on your device. It has no account system and does not request the
 INTERNET permission, so it cannot send your data anywhere.
